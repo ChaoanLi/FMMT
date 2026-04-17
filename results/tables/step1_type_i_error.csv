@@ -1,0 +1,7 @@
+Scenario,subdomain_1,subdomain_2,subdomain_3,global,bonferroni
+constant_vs_linear,0.0000,0.0000,0.0000,0.0000,0.0000
+exp_vs_exp_linear,0.0000,0.0000,0.0000,0.0000,0.0000
+sine_vs_sine_linear,0.0000,0.0000,0.3333,0.0000,0.0000
+constant_vs_sine,0.0000,0.0000,0.0000,0.0000,0.0000
+exp_vs_exp_sine,0.0000,0.0000,0.0000,0.0000,0.0000
+sine_vs_double_sine,0.0000,0.0000,0.0000,0.0000,0.0000

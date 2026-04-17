@@ -1,0 +1,4 @@
+Scenario,subdomain_1,subdomain_2,subdomain_3,global,bonferroni
+Sub1 Low Frequency,0.0250,0.0200,0.0290,0.0350,0.0280
+Sub1 High Frequency,0.0330,0.0130,0.0390,0.0440,0.0290
+Multi Subdomian,0.0400,0.0200,0.0390,0.0440,0.0290

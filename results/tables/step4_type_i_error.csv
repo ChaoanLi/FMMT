@@ -1,0 +1,4 @@
+Scenario,subdomain_1,subdomain_2,subdomain_3,subdomain_4,global,bonferroni
+Quad1 Modulation,0.0220,0.0270,0.0330,0.0330,0.0770,0.0540
+Quad2 Modulation,0.0270,0.0310,0.0280,0.0470,0.0960,0.0470
+Multi Quad Modulation,0.0300,0.0290,0.0250,0.0270,0.0680,0.0530

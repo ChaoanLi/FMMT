@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Intermediate / temporary results
+results/*.json
+results/step*.json
+experiments/experiment_checkpoints/
+experiments/*.pkl
+experiments/progress_*.json
+experiments/results_*.pkl
+
+# Large raw outputs (reproducible from run_all.py)
+# Keep results/figures/*.png and results/tables/*.csv in git
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
+*.out
+
+# Archive (not needed for reproduction)
+archive/
+
+# Cache
+.cache/
